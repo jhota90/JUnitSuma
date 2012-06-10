@@ -4,10 +4,6 @@
  */
 package sumajunit;
 
-/**
- *
- * @author Male
- */
 public class Suma {
 
     private double a;
